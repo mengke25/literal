@@ -80,15 +80,15 @@ $$
 
 ### （一）核心发现
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\fig1.png" alt="image-20220901102537423" style="zoom: 80%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/fig1.png)
 
 
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\table4.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/table4.png)
 
 
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableA1.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableA1.png)
 
 * 最低工资每增加1美元，员工绩效会提高0.094（4.5%）
 
@@ -103,32 +103,31 @@ $$
 * 滞后效应（3m>0）
 * 预期效应（3m<0）：没有趋势
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableA2.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableA2.png)
 
 ### （三）稳健性
 
 #### 1.pre-trend
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\fig2.png" alt="image-20220901102537423" style="zoom: 80%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/fig2.png)
 
 #### 2.工人跨境
 
 * 包括了工人固定效应，比较了员工 在两个“最低工资”下的表现
 * 最低工资的增长与新员工家庭到工作地点的距离没有相关性
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableE2.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableE2.png)
 
 #### 3.工人的样本选择问题
 
 [explain] 最低工资增加后，保留工人的构成发生变化  →  样本选择问题
 
 * 平衡面板数据交乘项
-
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableE3.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableE3.png)
 
 * 使用平衡面板replicate前面的baseline
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableE4.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableE4.png)
 
 #### 4.员工Type的划分
 
@@ -136,47 +135,48 @@ $$
 
 * 根据前三个月的平均工资（而不是前一个月）划分不同type的员工
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableE5.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableE5.png)
 
 * 将区分High Medium Low的阈值改为工资的120%、140%、160%
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableE6.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableE6.png)
 
 #### 5.可替代的研究设计
 
 * border-discontinuity损失了大量样本。一个可替代性的方案：放松边界条件，使用整体商店样本，但引入更多控制变量
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableE7.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableE7.png)
 
 #### 6.最低工资的州间影响
 
 * 跨州的变化可能会受到其他州级政策变化的影响——将分析仅限于州级工资变化，或仅限于县市层面工资变化
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\fig3B.png" alt="image-20220901102537423" style="zoom: 85%;" /> <img src="D:\Typora\figs\Minimun wage and individual worker productivity\fig3C.png" alt="image-20220901102537423" style="zoom: 85%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/fig3B.png)
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/fig3C.png)
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableE8.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableE8.png)
 
 #### 7.边境商店位置的定义
 
 * baseline中，使用商店所在县的中心距离边界的位置衡量“商店是否属于边界”，现在直接使用商店的具体位置
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\fig3D.png" alt="image-20220901102537423" style="zoom: 85%;" /> <img src="D:\Typora\figs\Minimun wage and individual worker productivity\fig3E.png" alt="image-20220901102537423" style="zoom: 85%;" />
-
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableE9.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/fig3D.png)
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/fug3E.png)
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableE9.png)
 
 #### 8.不堆叠观察(Unstacking)
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableE10.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableE10.png)
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\fig3F.png" alt="image-20220901102537423" style="zoom: 80%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/fig3F.png)
 
 #### 9.控制变量
 
 * 控制部门时间趋势
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableE11.png" alt="image-20220901102537423" style="zoom: 80%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableE11.png)
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableE12.png" alt="image-20220901102537423" style="zoom: 80%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableE12.png)
 
 
 
@@ -190,9 +190,9 @@ $$
 
 监控覆盖率低或者高时，最低工资对工人绩效的影响
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\table5.png" alt="image-20220901102537423" style="zoom: 65%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/table5.png)
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\fig4.png" alt="image-20220901102537423" style="zoom: 80%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/fig4.png)
 
 
 
@@ -202,7 +202,7 @@ $$
 Y_{jpt} = \alpha + \beta MinW_{jt}+ \eta Z_{jt}+\delta_j+\phi_{pt}+\epsilon_{jpt}
 $$
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableA4.png" alt="image-20220901102537423" style="zoom: 80%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableA4.png)
 
 ## 五、最低工资在商店层面的效应
 
@@ -215,16 +215,16 @@ $$
 Y_{jpt} = \alpha + \beta MinW_{jt}+\gamma\% LowType_{j,t}+\eta Z_{jt}+\delta_j+\phi_{pt}+\epsilon_{jpt}
 $$
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\fig5.png" alt="image-20220901102537423" style="zoom: 80%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/fig5.png)
 
 * 最低工资的提高会减少商店level的解雇、招聘、营业额
 * 提高LowType员工的任期
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\table6.png" alt="image-20220901102537423" style="zoom: 80%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/table6.png)
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\fig6.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/fig6.png)
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\table7.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/table7.png)
 
 * 最低工资增加后，LowType员工被解雇的可能性显著降低19%
 
@@ -240,7 +240,7 @@ $$
 * 低收入者更努力，低收入者的留存率更高（增加的不成比例）；因此对产出利润的影响效应模棱两可
 * 提高最低工资能够提升商店层面的生产力
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\table8.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/table8.png)
 
 #### 2.Profits
 
@@ -253,25 +253,25 @@ $$
 * 最低工资增长的同时，需求业增长。可以解释个人生产力的增长
 * 商店需求高，HighType的销售额比LowType增长跟多
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\figF3.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/figF3.png)
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableF3.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableF3.png)
 
 * HighType生产力对最低工资引起的Demand shock更为敏感
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableF4.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableF4.png)
 
 ### （二）组织调整渠道
 
 * 组织调整：把员工分配到“销售更好”的部门；将兼职状态改为全职状态；减少小时数增加工作效率；给予假期和看病福利
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\fig7.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/fig7.png)
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableF6.png" alt="image-20220901102537423" style="zoom: 67%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableF6.png)
 
 * 销售额的增长源于消费价格的上涨？
 
-<img src="D:\Typora\figs\Minimun wage and individual worker productivity\tableF7.png" alt="image-20220901102537423" style="zoom: 87%;" />
+![image](https://github.com/mengke25/literal/blob/main/LR_reading/Minimun_wage_and_individual_worker_productivity/figs/tableF7.png)
 
 
 
