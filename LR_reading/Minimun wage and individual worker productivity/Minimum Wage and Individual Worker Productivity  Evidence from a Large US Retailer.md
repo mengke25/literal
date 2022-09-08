@@ -15,6 +15,8 @@
 ### （一）数据
 
 对象是美国大型零售商销售人员，这家零售商雇佣了美国10%以上百货公司的员工，并在50个州经营2000多家商店。员工的工作内容为：问候客户、解释说服客户、追加销售、交叉销售；作者将工人的工资数据与2012.02~2015.06的月度人事数据进行匹配，清洗出40000个根据绩效获得报酬的销售人员；
+![image](https://github.com/mengke25/literal/LR_reading/Minimun wage and individual worker productivity/figs/table1.png)
+
 
 <img src="D:\Typora\figs\Minimun wage and individual worker productivity\table1.png" alt="image-20220901102537423" style="zoom: 67%;" />
 
